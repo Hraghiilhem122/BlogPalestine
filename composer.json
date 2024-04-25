@@ -1,0 +1,15 @@
+{
+    "name": "dell/blogpalestine",
+    "description": "Blog a propos Palestine avec PHP",
+    "type": "project",
+    "require": {
+        "respect/validation": "^2.2"
+    },
+    "license": "MT",
+    "autoload": {
+        "psr-4": {
+            "Dell\\Blogpalestine\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
